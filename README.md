@@ -6,5 +6,5 @@ I will be creating videos/podcast to recap and share my knowledge of python with
 soon
 
 
-#this is just for fun
+# this is just for fun
 The secret keys here are uploaded on purpose. None of this will be used in production.
